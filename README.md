@@ -84,4 +84,4 @@ If an application is not installed, its shortcut will simply not open.
 
 ---
 
-Created by Amit Bairwa
+Created by Amit
