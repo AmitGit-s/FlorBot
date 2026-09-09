@@ -11,7 +11,7 @@ A lightweight animated desktop companion for Windows built with Python and PySid
 - Quick launcher
 - Google Search
 - Theme customization
-- Wake & Sleep animations
+- Wake & Sleep animation
 - Multi-monitor support
 
 ---
